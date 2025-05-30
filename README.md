@@ -1,3 +1,2 @@
-# Bookworm's Online Obsessions: Books Superstore!
-
+# books
 books ecommerce app for our final project in web development using django
